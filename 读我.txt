@@ -1,0 +1,21 @@
+新建,导入工单,工单转估价单,重新计算,保存,取消,作废,生成工单,打印
+
+
+BRAND_CODE: "23"
+COLOR_CODE: "32"
+CUST_CODE: "ddd"
+CUST_NAME: "赵天武"
+DLR_CUSTOMER_ID: 1
+ENGINE_NO: "2134"
+GENDER: null
+IS_OEM_EMP: null
+IS_OEM_VIP: null
+IS_TPR: null
+LICENSE_NO: "weqwqd"
+MOBILE: "15956992229"
+MODEL_CODE: "2434"
+PRODUCT_DATE: null
+PURCHASE_DATE: "2013-12-18 14:55:59"
+SERIES_CODE: "234"
+VEHICLE_ID: 1
+VIN: "332"
